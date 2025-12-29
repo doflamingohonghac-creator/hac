@@ -1,0 +1,2729 @@
+{
+  "admin": {
+    "password": "hacnewsgame"
+  },
+  "appConfig": {
+    "freefire": {
+      "categories": [
+        {
+          "description": "Các skin súng cực đẹp",
+          "gunTypeFilters": [
+            {
+              "icon": "💥",
+              "id": "SMG",
+              "image": "https://sf-static.upanhlaylink.com/img/image_20251227f8d47fd57c543473fbb8077e610b110d.jpg",
+              "name": "Tiểu Liên"
+            },
+            {
+              "icon": "🔥",
+              "id": "AR",
+              "image": "https://sf-static.upanhlaylink.com/img/image_20251227962c4a2c549a660496f196a22da2e1c8.jpg",
+              "name": "Súng Trường"
+            },
+            {
+              "icon": "🎯",
+              "id": "SR",
+              "image": "https://sf-static.upanhlaylink.com/img/image_2025122857f592c2a4af4faf0b71b90bd2be58f3.jpg",
+              "name": "Súng Tỉa"
+            },
+            {
+              "icon": "💣",
+              "id": "SG",
+              "image": "https://sf-static.upanhlaylink.com/img/image_20251227fcf9687359bd3808512da38ab9057f80.jpg",
+              "name": "Shotgun"
+            }
+          ],
+          "id": "skin_gun",
+          "image": "https://sf-static.upanhlaylink.com/img/image_20251227148a16837729b7342cdab8a6290803eb.jpg",
+          "name": "SKIN SÚNG",
+          "subCategories": [
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "mp5",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907103808.png",
+              "name": "MP5"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "ump",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907102711.png",
+              "name": "UMP"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "mp40",
+              "image": "https://sf-static.upanhlaylink.com/img/image_2025122929737bd2e6259b6dbe33ba14ba8dec08.jpg",
+              "name": "MP40"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "p90",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907202210.png",
+              "name": "P90"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "thompson",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907136007.png",
+              "name": "Thompson"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "vector",
+              "name": "Vector"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "m4a1",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907193106.png",
+              "name": "M4A1"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "ak47",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907092407.png",
+              "name": "AK47"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "scar",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907192507.png",
+              "name": "SCAR"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "famas",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907100103.png",
+              "name": "FAMAS"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "xm8",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907100107.png",
+              "name": "XM8"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "an94",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907100108.png",
+              "name": "AN94"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "aug",
+              "image": "https://blackblitzairsoft.com/cdn/shop/files/50140-000_grande.jpg?",
+              "name": "AUG"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "parafal",
+              "image": "https://ih1.redbubble.net/image.420423240.2254/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg",
+              "name": "PARAFAL"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "g36",
+              "image": "https://fresnoarmory.com/wp-content/uploads/2025/08/81000994-G36-22LR-Angle-01-1500x1500-1.jpg",
+              "name": "G36"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "groza",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907194117.png",
+              "name": "Groza"
+            },
+            {
+              "gunType": "SR",
+              "icon": "🎯",
+              "id": "awm",
+              "image": "https://sf-static.upanhlaylink.com/img/image_202512296810d949f35794471baf4784e767bd8f.jpg",
+              "name": "AWM"
+            },
+            {
+              "gunType": "SR",
+              "icon": "🎯",
+              "id": "m82b",
+              "name": "M82B"
+            },
+            {
+              "gunType": "SG",
+              "icon": "💣",
+              "id": "m1014",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907100104.png",
+              "name": "M1014"
+            },
+            {
+              "gunType": "SG",
+              "icon": "💣",
+              "id": "m1887",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907193507.png",
+              "name": "M1887"
+            },
+            {
+              "gunType": "SG",
+              "icon": "💣",
+              "id": "mag7",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907103701.png",
+              "name": "MAG-7"
+            },
+            {
+              "gunType": "SG",
+              "icon": "💣",
+              "id": "trogon",
+              "image": "https://sf-static.upanhlaylink.com/img/image_20251227f7d09b99419034bbc8f3e520521fd613.jpg",
+              "name": "Trogon"
+            },
+            {
+              "gunType": "SG",
+              "icon": "💣",
+              "id": "M590",
+              "image": "https://i.ytimg.com/vi/wHu6Hht_S_k/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBDZZqEL4MVefYO8lbJ1q11q-Sx_Q",
+              "name": "M590"
+            },
+            {
+              "gunType": "SG",
+              "icon": "😎",
+              "id": "m1014",
+              "image": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907192707.png",
+              "name": "SHOT6VIEN"
+            }
+          ]
+        },
+        {
+          "charTypeFilters": [
+            {
+              "icon": "👨",
+              "id": "NAM",
+              "image": "https://sf-static.upanhlaylink.com/img/image_2025122782b5d6c8c434a30f698a7802d48ac23e.jpg",
+              "name": "Nhân Vật Nam"
+            },
+            {
+              "icon": "👩",
+              "id": "NU",
+              "image": "https://sf-static.upanhlaylink.com/img/image_20251227480dc95920fcf6af8e641a8bb94b5a96.jpg",
+              "name": "Nhân Vật Nữ"
+            }
+          ],
+          "description": "Trang phục nhân vật thời thượng",
+          "id": "skin_char",
+          "image": "https://sf-static.upanhlaylink.com/img/image_20251228fed01d03f4534fca2e88026547f3b833.jpg",
+          "name": "SKIN NHÂN VẬT",
+          "subCategories": [
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "maro",
+              "image": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/8af9a328d62a330a76221b79670daf37.png",
+              "name": "Maro"
+            },
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "ignis",
+              "image": "https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20241/a72ab49cc322359afdc5b66fcd3fcdf8.png",
+              "name": "Ignis"
+            },
+            {
+              "charType": "NAM",
+              "icon": "🎵",
+              "id": "alok",
+              "image": "https://static.wikia.nocookie.net/garena-freefire/images/c/c8/Awakend_Alok.png/revision/latest?cb=20240125194659",
+              "name": "Alok Thức Tỉnh"
+            },
+            {
+              "charType": "NAM",
+              "icon": "🐺",
+              "id": "wolfrahh",
+              "image": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/e4169a44d8a6e83549b3b7f8a7820c1e.png",
+              "name": "Wolfrahh"
+            },
+            {
+              "charType": "NU",
+              "icon": "🎤",
+              "id": "kapella",
+              "image": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9c6b10d2984125fbdd96fae9e0a84518.png",
+              "name": "Kapella"
+            }
+          ]
+        },
+        {
+          "description": "Combo nhiều mod trong 1 pack",
+          "id": "pack_mod",
+          "image": "https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg",
+          "name": "PACK MOD",
+          "subCategories": [
+            {
+              "icon": "📦",
+              "id": "pack_mod",
+              "name": "Pack Combo"
+            }
+          ]
+        },
+        {
+          "charTypeFilters": [
+            {
+              "icon": "👨",
+              "id": "NAM",
+              "image": "https://sf-static.upanhlaylink.com/img/image_2025122782b5d6c8c434a30f698a7802d48ac23e.jpg",
+              "name": "Nhân Vật Nam"
+            },
+            {
+              "icon": "👩",
+              "id": "NU",
+              "image": "https://sf-static.upanhlaylink.com/img/image_20251227480dc95920fcf6af8e641a8bb94b5a96.jpg",
+              "name": "Nhân Vật Nữ"
+            }
+          ],
+          "description": "Bộ sưu tập mod phiên bản 1",
+          "id": "hanhdongff",
+          "image": "https://sf-static.upanhlaylink.com/img/image_2025122834441121f079be53f207f0eaf37abd38.jpg",
+          "name": "Hành Động",
+          "subCategories": [
+            {
+              "icon": "👨",
+              "id": "update1_char_nam",
+              "image": "https://sf-static.upanhlaylink.com/img/image_20251229d011a7d6b3eb3b76bf7ff9ae0281db8d.jpg",
+              "name": "Huyền Thoại Tử Chiến"
+            }
+          ]
+        },
+        {
+          "description": "",
+          "id": "update_2_vesion",
+          "image": "",
+          "name": "UPDATE on",
+          "subCategories": [
+            {
+              "icon": "📦",
+              "id": "update2_pack",
+              "name": "Pack Combo V2"
+            }
+          ]
+        }
+      ],
+      "gameId": "freefireth",
+      "gameName": "Free Fire",
+      "header": {
+        "logoUrl": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/assets/ff_logo.png",
+        "subtitle": "Chọn mod bạn muốn cài đặt",
+        "title": "FREE FIRE MODS",
+        "youtubeUrl": "https://www.youtube.com/@HacToolsGame"
+      },
+      "lastUpdated": "2025-12-21",
+      "modItems": {
+        "action": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/emote_loot.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/emote_loot.png",
+            "category": "action",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_emote_loot.zip",
+            "enabled": true,
+            "fileSize": 6815744,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/emote_loot.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_emote_loot",
+            "name": "Loot Dance",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "ak47": [
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_2025122770677ea0b6e8e6193adc672b5389720e.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_202512270e7884086b4a23a13495fc3a27d49b25.jpg",
+            "category": "ak47",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=116IKVV0HcOS0E9qUgmIPLUjnpGK4XRFb",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_ak47_001",
+            "name": "AK47 - Rồng Xanh",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "alok": [
+          {
+            "category": "alok",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1q1FIBOr6c8aaQPlwLc2FOmJ5q8Xjk605",
+            "enabled": true,
+            "fileSize": 20971520,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227f35b37ebadf673d9791bc0890a1346c9.jpg",
+            "modCode": "ff_alok_thienha",
+            "name": "Alok Thiên Hà",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "alok",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1l5Wh8tevDvvASUoejV4VHsUiF-MqI_zX",
+            "enabled": true,
+            "fileSize": 18874368,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227ab0bdc026350160dd134ebf15337d3b1.jpg",
+            "modCode": "ff_alok_valorant",
+            "name": "Alok Valorant",
+            "new": false,
+            "type": "epic",
+            "version": "1.0"
+          },
+          {
+            "category": "alok",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1aL_D6gz09MHbKmAb6jNrIEl0Ikj_huwU",
+            "enabled": true,
+            "fileSize": 20971520,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227eb872423a4eded32782ae62665876113.jpg",
+            "modCode": "ff_alok_002",
+            "name": "ALOK THỨC TỈNH - V002",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "alok",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1XYJd8i_giPSdlk4oLeFk4nSiRGZrDNPC",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227722088aeb9c8e095575e2e2ce748446b.jpg",
+            "modCode": "ff_alok_003",
+            "name": "ALOK THỨC TỈNH - V003",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "alok",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1uXL7qrbKp1N9xlwZrEv8VI4uu9ZWxwSq",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227c94ea490fe55a28cc0c4ec372924c7ca.jpg",
+            "modCode": "ff_alok_004",
+            "name": "ALOK THỨC TỈNH - V004",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "alok",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1nEqNeVWUZz70LC7WlyWzamDTw-PDsTBr",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_202512278c0df54946fb1b755e78972dfdd80a04.jpg",
+            "modCode": "ff_alok_005",
+            "name": "ALOK THỨC TỈNH - V005",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "alok",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1xBBiz9__xrEaNSWmC-NLd1Uknr5hEy_a",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227c7600a8644e183c5e1a5dee0ee660733.jpg",
+            "modCode": "ff_alok_006",
+            "name": "ALOK THỨC TỈNH - V006",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "an94": [
+          {
+            "afterImage": "https://official.garena.com/vn/v1/config/banner_ff_mb.jpg",
+            "beforeImage": "https://official.garena.com/vn/v1/config/banner_ff_mb.jpg",
+            "category": "an94",
+            "downloadCount": 0,
+            "downloadUrl": "h",
+            "enabled": true,
+            "fileSize": 1550088,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_an94_001",
+            "name": "AN94 - V001",
+            "new": false,
+            "type": "legendary",
+            "version": "1.01"
+          }
+        ],
+        "awm": [
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_202512291eb67df2cf2cc6bff716adcf0eba7b63.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_202512296810d949f35794471baf4784e767bd8f.jpg",
+            "category": "awm",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1iBFc2Ssl-Jh66Bw2sXgpjRoYomg1CMGw",
+            "enabled": true,
+            "fileSize": 16777216,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_awm_winter",
+            "name": "AWM GẤU GẮT GỎNG",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_202512291a0c3f125658a260c817cd89f9f0e13e.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_202512297ef465503e1eea1213049c7f0671a2c4.jpg",
+            "category": "awm",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1_RU7LwD3a0uRs3aPh8_Ra_qIZkMDt791",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_awm_002",
+            "name": "AWM - MA ẢNH CỰC QUANG",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "bike": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/bike_neon.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/bike_neon.png",
+            "category": "bike",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_bike_neon.zip",
+            "enabled": true,
+            "fileSize": 6291456,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/bike_neon.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_bike_neon",
+            "name": "Bike Neon",
+            "type": "rare",
+            "version": "1.0"
+          },
+          {
+            "category": "bike",
+            "downloadCount": 0,
+            "downloadUrl": "",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_bike_002",
+            "name": "XE MÁY - V002",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "bundle_nam": [
+          {
+            "category": "bundle_nam",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_bundle_criminal.zip",
+            "enabled": true,
+            "fileSize": 25165824,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/criminal.png",
+            "modCode": "ff_bundle_criminal",
+            "name": "Criminal Bundle",
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "bundle_nam",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_bundle_hiphop.zip",
+            "enabled": true,
+            "fileSize": 23068672,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/hiphop.png",
+            "modCode": "ff_bundle_hiphop",
+            "name": "Hip Hop Bundle",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "bundle_nu": [
+          {
+            "category": "bundle_nu",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_bundle_sakura.zip",
+            "enabled": true,
+            "fileSize": 24117248,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/sakura.png",
+            "modCode": "ff_bundle_sakura",
+            "name": "Sakura Bundle",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "car": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/car_gold.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/car_gold.png",
+            "category": "car",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_car_gold.zip",
+            "enabled": true,
+            "fileSize": 8388608,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/car_gold.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_car_gold",
+            "name": "Sports Car Gold",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "chrono": [
+          {
+            "category": "chrono",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_chrono_cr7.zip",
+            "enabled": true,
+            "fileSize": 22020096,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/chrono_cr7.png",
+            "modCode": "ff_chrono_cr7",
+            "name": "Chrono CR7",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "dance": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/emote_pirate.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/emote_pirate.png",
+            "category": "dance",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_emote_pirate.zip",
+            "enabled": true,
+            "fileSize": 7340032,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/emote_pirate.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_emote_pirate",
+            "name": "Pirate Dance",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "du_skin": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/para_dragon.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/para_dragon.png",
+            "category": "du_skin",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_du_dragon.zip",
+            "enabled": true,
+            "fileSize": 9437184,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/para_dragon.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_du_dragon",
+            "name": "Dragon Parachute",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "hanh_dong_dance": [
+          {
+            "afterImage": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/909034003.png",
+            "beforeImage": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/909034002.png",
+            "category": "hanh_dong_dance",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_emote_dance_001.zip",
+            "enabled": true,
+            "fileSize": 5242880,
+            "game": "freefireth",
+            "layoutType": "khung-doi-lap",
+            "modCode": "ff_emote_dance_001",
+            "name": "Nhảy Disco",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "hanh_dong_huyen_thoai": [
+          {
+            "afterImage": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/909034012.png",
+            "beforeImage": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/909034001.png",
+            "category": "hanh_dong_huyen_thoai",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_emote_legend_001.zip",
+            "enabled": true,
+            "fileSize": 6815744,
+            "game": "freefireth",
+            "layoutType": "khung-doi-lap",
+            "modCode": "ff_emote_legend_001",
+            "name": "Huyền Thoại Tử Chiến",
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "afterImage": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/909034008.png",
+            "beforeImage": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/909034005.png",
+            "category": "hanh_dong_huyen_thoai",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_emote_legend_002.zip",
+            "enabled": true,
+            "fileSize": 7340032,
+            "game": "freefireth",
+            "layoutType": "khung-doi-lap",
+            "modCode": "ff_emote_legend_002",
+            "name": "Vũ Điệu Chiến Binh",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "hayato": [
+          {
+            "category": "hayato",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_hayato_fire.zip",
+            "enabled": true,
+            "fileSize": 21000000,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/hayato_fire.png",
+            "modCode": "ff_hayato_fire",
+            "name": "Hayato Fire",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "huyenthoaituchienhuyenthoaituchien": [
+          {
+            "category": "huyenthoaituchienhuyenthoaituchien",
+            "downloadCount": 0,
+            "downloadUrl": "",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_huyenthoaituchienhuyenthoaituchien_001",
+            "name": "HUYỀN THOẠI TỬ CHIẾN - V001",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "ignis": [
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1tyxikRJuWUVS1adN7UpTlw-1G8xPDa4l",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_202512275f590457d0579b6291b59eab2e5739ae.jpg",
+            "modCode": "ff_ignis_001",
+            "name": "IGNIS - V001",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=18jTNeV_ae8BHZOaAynHsm1cbfrIug-Ww",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227ef58836da002f0692e8f610d917d3b3c.jpg",
+            "modCode": "ff_ignis_002",
+            "name": "IGNIS - V002( BY KENMODZ )",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1t3xSHbkeyVaUuNhVadjSL3j53EpCm_bf",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227dd327f4b1885cf92efb4ebda27f1264c.jpg",
+            "modCode": "ff_ignis_003",
+            "name": "IGNIS - V003",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1MhO9zjZgyHRPWU_6H1nDgvbkcV5Ai6C3",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_2025122735d73f6ac554c7613294b1abda5686bd.jpg",
+            "modCode": "ff_ignis_004",
+            "name": "IGNIS - V004",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=15uBzz_RLvysbCqlqFaWAGCqkdRt9c0qj",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227b8e44817da706fad157ca1095f5d2e80.jpg",
+            "modCode": "ff_ignis_005",
+            "name": "IGNIS - V005",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1KglgtveBh2HLKLp8CiGlWM1iTaF5Zj07",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_202512271833c0f909ade83a24bcf55b67511c25.jpg",
+            "modCode": "ff_ignis_006",
+            "name": "IGNIS - V006",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=12ya6S49fhFo8zF13hJzeToLUGnf-rVvX",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227a8f4561b3917f5873cd9c05f1ff4c21a.jpg",
+            "modCode": "ff_ignis_007",
+            "name": "IGNIS - V007",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1wS8iVK9hCB5nTwcvkT-c-BttHvUmBrHA",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227f1ba0cfd3a5fda92c2c716d3b0b32561.jpg",
+            "modCode": "ff_ignis_008",
+            "name": "IGNIS - V008",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1Xftqv-KgIinvVa5wDTRteF-syCN-lE0n",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_2025122838542bed5abc27f8e8c1d29316efbbe6.jpg",
+            "modCode": "ff_ignis_009",
+            "name": "IGNIS - V009",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "modCode": "ff_ignis_010",
+            "name": "IGNIS - V010",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "kapella": [
+          {
+            "category": "kapella",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1o6PqBXOLz8LKz4q22gTjw8nCJ5j3flEp",
+            "enabled": true,
+            "fileSize": 18000000,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_2025122709ebe16c9e79725c4030fb8d40307e5d.jpg",
+            "modCode": "ff_kapella_pop",
+            "name": "Kapella Pop Star",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "kapella",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1BfgFYxH6ApHp8OdT2i4922psfjMmY1ZI",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_2025122769a99fd0ec840ec640ae4493ce506ce8.jpg",
+            "modCode": "ff_kapella_002",
+            "name": "KAPELLA - V002",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "kelly": [
+          {
+            "category": "kelly",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_kelly_swift.zip",
+            "enabled": true,
+            "fileSize": 17000000,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/kelly_swift.png",
+            "modCode": "ff_kelly_swift",
+            "name": "Kelly Swift",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "m1014": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m1014_phantom.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m1014_phantom.png",
+            "category": "m1014",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_m1014_phantom.zip",
+            "enabled": true,
+            "fileSize": 14680064,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m1014_phantom.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_m1014_phantom",
+            "name": "M1014 Phantom",
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m1014_gold.png",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_202512230f5460f2e166fa1db48901e860d5b31d.jpg",
+            "category": "m1014",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_m1014_gold.zip",
+            "enabled": true,
+            "fileSize": 11534336,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_202512230f5460f2e166fa1db48901e860d5b31d.jpg",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_m1014_gold",
+            "name": "M1014 Gold",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "m1887": [
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_20251226b366736902b772876d954f2233168d16.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_2025122684380eaeb4f96c617150ed5b47fec24e.jpg",
+            "category": "m1887",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1tXrC8WX_XJRoMEdBIN7ZEGJgjV1HrI3B",
+            "enabled": true,
+            "fileSize": 9000000,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_m1887_001",
+            "name": "M1887 - Hoạ Nộ",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_202512266642ed464e3afa9109a8dabb29a1b7dc.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg",
+            "category": "m1887",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=11xzHXgvUSI9slcQU_8qZm_wM_PEYos59",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_m1887_003",
+            "name": "M1887 - Vương Quốc Cát",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_20251226c1982ecfda5e08769db9f09e7b1fe881.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg",
+            "category": "m1887",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1iStEJSAdQwYKBCTMtgWf0fuqzU6x0JY5",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_m1887_003",
+            "name": "M1887 - Thế Giới Ngầm",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_20251227a0cdf3aecd5d78a56ce368254676ce23.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg",
+            "category": "m1887",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1trER38kMnjC-UISpGIbgVX8KihslWyEP",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_m1887_004",
+            "name": "M1887 - Hào Quang Vàng",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_202512270e9697c9e83462e308a95e9ffe7c3f53.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg",
+            "category": "m1887",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=19EXw5GjTMKO14_jm9mrOAyV9TZ4ZBRfN",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_m1887_005",
+            "name": "M1887 - Lữ Khách",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_2025122721606571f1f0ecc5cdbb7fdda3aceb47.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg",
+            "category": "m1887",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1W3L5e9YqRGByFDawPtMLIMUfBLHgJ6pAhttps://drive.google.com/uc?export=download&id=1W3L5e9YqRGByFDawPtMLIMUfBLHgJ6pA",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_m1887_006",
+            "name": "M1887 - Tương Lai",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_20251227bd435feca9fc2d785e3d9a21298faa3f.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_2025122684380eaeb4f96c617150ed5b47fec24e.jpg",
+            "category": "m1887",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=18WQohAet3GZRA4KwrxX-AmVeGfLrVzMs",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_m1887_007",
+            "name": "M1887 - Lục Bảo",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "m4a1": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m4a1_galaxy.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m4a1_galaxy.png",
+            "category": "m4a1",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_m4a1_galaxy.zip",
+            "enabled": true,
+            "fileSize": 15204352,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m4a1_galaxy.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_m4a1_galaxy",
+            "name": "M4A1 Galaxy",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "maro": [
+          {
+            "category": "maro",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=19g7XgWRvKugmpVmICye7hMCkUPL5zJkj",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227b7fef211e4e7a17e0c6020bdccb99913.jpg",
+            "modCode": "ff_maro_002",
+            "name": "MARO - V002",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "mp40": [
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_20251229ab3a85953d8227e4c6daed64ccee2440.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_20251229a9de408d623f79a54644f50056ae1767.jpg",
+            "category": "mp40",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1mLrIp1hSV-ZtOudspIuI84wko1K14jG-",
+            "enabled": true,
+            "fileSize": 13631488,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_mp40_bunny",
+            "name": "MP40 UCHIHA",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "mp5": [
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_20251229103950cc8fd5f899264a76f4b9a1b0b9.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_20251229b1f8f4090145364a01b50a7d51547e7e.jpg",
+            "category": "mp5",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=19aXAjjUdzlYvzoZp4z8_5XDQ_rJGZ1GX",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_mp5_001",
+            "name": "MP5 THỎ 7 MÀU",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "pack_mod": [
+          {
+            "category": "pack_mod",
+            "downloadCount": 0,
+            "downloadUrl": "https://raw.githubusercontent.com/doflamingohonghac-creator/hac/main/one1.zip",
+            "enabled": true,
+            "fileSize": 52428800,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/doflamingohonghac-creator/hac/refs/heads/main/Gemini_Generated_Image_x9yke4x9yke4x9yk-small-small-small-small.png",
+            "layoutType": "khung-16-9",
+            "modCode": "ff_pack_combo1",
+            "name": "Pack VIP 1",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "pack_mod",
+            "downloadCount": 0,
+            "downloadUrl": "",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "layoutType": "khung-16-9",
+            "modCode": "ff_pack_mod_002",
+            "name": "PACK COMBO - V002",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "scar": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/scar_titan.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/scar_titan.png",
+            "category": "scar",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_scar_titan.zip",
+            "enabled": true,
+            "fileSize": 14155776,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/scar_titan.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ff_scar_titan",
+            "name": "SCAR Titan",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "update1_char_nam": [
+          {
+            "category": "update1_char_nam",
+            "downloadCount": 0,
+            "downloadUrl": "",
+            "enabled": true,
+            "fileSize": 20000000,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_202512293ba09612590230a4916029815e44ceae.jpg",
+            "modCode": "update1_nam_001",
+            "name": "Thuật quạ phân thân",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "update1_char_nam",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/update1_nam_002.zip",
+            "enabled": true,
+            "fileSize": 18000000,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227ab0bdc026350160dd134ebf15337d3b1.jpg",
+            "modCode": "update1_nam_002",
+            "name": "Nhân Vật Nam - V002",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "update1_char_nu": [
+          {
+            "category": "update1_char_nu",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/update1_nu_001.zip",
+            "enabled": true,
+            "fileSize": 22000000,
+            "game": "freefireth",
+            "image": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9c6b10d2984125fbdd96fae9e0a84518.png",
+            "modCode": "update1_nu_001",
+            "name": "Nhân Vật Nữ - V001",
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "update1_char_nu",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/update1_nu_002.zip",
+            "enabled": true,
+            "fileSize": 19000000,
+            "game": "freefireth",
+            "image": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9c6b10d2984125fbdd96fae9e0a84518.png",
+            "modCode": "update1_nu_002",
+            "name": "Nhân Vật Nữ - V002",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "update2_pack": [
+          {
+            "category": "update2_pack",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/update2_pack_001.zip",
+            "enabled": true,
+            "fileSize": 50000000,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg",
+            "layoutType": "khung-16-9",
+            "modCode": "update2_pack_001",
+            "name": "Pack Combo V2 - Set 1",
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "update2_pack",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/update2_pack_002.zip",
+            "enabled": true,
+            "fileSize": 45000000,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg",
+            "layoutType": "khung-16-9",
+            "modCode": "update2_pack_002",
+            "name": "Pack Combo V2 - Set 2",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "wolfrahh": [
+          {
+            "category": "wolfrahh",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1S-2sK5jrynKxfUN2XCiBiOkY1LkdHzNn",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefireth",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251228535e92ac074f9d0e33505855721a2fa7.jpg",
+            "modCode": "ff_wolfrahh_001",
+            "name": "WOLFRAHH - V001",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "wukong": [
+          {
+            "category": "wukong",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ff_wukong_gold.zip",
+            "enabled": true,
+            "fileSize": 19000000,
+            "game": "freefireth",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/wukong_gold.png",
+            "modCode": "ff_wukong_gold",
+            "name": "Wukong Gold",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ]
+      },
+      "packageName": "com.dts.freefireth",
+      "version": 2
+    },
+    "freefiremax": {
+      "categories": [
+        {
+          "description": "Các skin súng cực đẹp",
+          "gunTypeFilters": [
+            {
+              "icon": "🔫",
+              "id": "PI",
+              "name": "Súng Lục"
+            },
+            {
+              "icon": "💥",
+              "id": "SMG",
+              "name": "Tiểu Liên"
+            },
+            {
+              "icon": "🔥",
+              "id": "AR",
+              "name": "Súng Trường"
+            },
+            {
+              "icon": "🎯",
+              "id": "SR",
+              "image": "https://sf-static.upanhlaylink.com/img/image_2025122857f592c2a4af4faf0b71b90bd2be58f3.jpg",
+              "name": "Súng Tỉa"
+            },
+            {
+              "icon": "💣",
+              "id": "SG",
+              "name": "Shotgun"
+            }
+          ],
+          "id": "skin_gun",
+          "image": "https://sf-static.upanhlaylink.com/img/image_20251227148a16837729b7342cdab8a6290803eb.jpg",
+          "name": "SKIN SÚNG",
+          "subCategories": [
+            {
+              "gunType": "PI",
+              "icon": "🔫",
+              "id": "usp",
+              "name": "USP"
+            },
+            {
+              "gunType": "PI",
+              "icon": "🔫",
+              "id": "desert_eagle",
+              "name": "Desert Eagle"
+            },
+            {
+              "gunType": "PI",
+              "icon": "🔫",
+              "id": "g18",
+              "name": "G18"
+            },
+            {
+              "gunType": "PI",
+              "icon": "🔫",
+              "id": "m1873",
+              "name": "M1873"
+            },
+            {
+              "gunType": "PI",
+              "icon": "🔫",
+              "id": "m500",
+              "name": "M500"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "mp5",
+              "name": "MP5"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "ump",
+              "name": "UMP"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "mp40",
+              "name": "MP40"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "p90",
+              "name": "P90"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "thompson",
+              "name": "Thompson"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "vector",
+              "name": "Vector"
+            },
+            {
+              "gunType": "SMG",
+              "icon": "💥",
+              "id": "mac10",
+              "name": "MAC10"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "m4a1",
+              "name": "M4A1"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "ak47",
+              "name": "AK47"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "scar",
+              "name": "SCAR"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "famas",
+              "name": "FAMAS"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "xm8",
+              "name": "XM8"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "an94",
+              "name": "AN94"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "aug",
+              "name": "AUG"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "parafal",
+              "name": "PARAFAL"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "g36",
+              "name": "G36"
+            },
+            {
+              "gunType": "AR",
+              "icon": "🔥",
+              "id": "groza",
+              "name": "Groza"
+            },
+            {
+              "gunType": "SR",
+              "icon": "🎯",
+              "id": "awm",
+              "name": "AWM"
+            },
+            {
+              "gunType": "SR",
+              "icon": "🎯",
+              "id": "m82b",
+              "name": "M82B"
+            },
+            {
+              "gunType": "SG",
+              "icon": "💣",
+              "id": "m1014",
+              "name": "M1014"
+            },
+            {
+              "gunType": "SG",
+              "icon": "💣",
+              "id": "m1887",
+              "name": "M1887"
+            },
+            {
+              "gunType": "SG",
+              "icon": "💣",
+              "id": "mag7",
+              "name": "MAG-7"
+            },
+            {
+              "gunType": "SG",
+              "icon": "💣",
+              "id": "trogon",
+              "name": "Trogon"
+            }
+          ]
+        },
+        {
+          "charTypeFilters": [
+            {
+              "icon": "👨",
+              "id": "NAM",
+              "name": "Nhân Vật Nam"
+            },
+            {
+              "icon": "👩",
+              "id": "NU",
+              "name": "Nhân Vật Nữ"
+            }
+          ],
+          "description": "Trang phục nhân vật thời thượng",
+          "id": "skin_char",
+          "image": "https://sf-static.upanhlaylink.com/img/image_20251228fed01d03f4534fca2e88026547f3b833.jpg",
+          "name": "SKIN NHÂN VẬT",
+          "subCategories": [
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "maro",
+              "name": "Maro"
+            },
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "ignis",
+              "name": "Ignis"
+            },
+            {
+              "charType": "NAM",
+              "icon": "🎵",
+              "id": "alok",
+              "name": "Alok"
+            },
+            {
+              "charType": "NAM",
+              "icon": "⚔️",
+              "id": "hayato",
+              "name": "Hayato"
+            },
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "kairos",
+              "name": "Kairos"
+            },
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "k",
+              "name": "K"
+            },
+            {
+              "charType": "NAM",
+              "icon": "🐒",
+              "id": "wukong",
+              "name": "Wukong"
+            },
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "kenta",
+              "name": "Kenta"
+            },
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "ryden",
+              "name": "Ryden"
+            },
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "nairi",
+              "name": "Nairi"
+            },
+            {
+              "charType": "NAM",
+              "icon": "🐺",
+              "id": "wolfrahh",
+              "name": "Wolfrahh"
+            },
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "jota",
+              "name": "Jota"
+            },
+            {
+              "charType": "NAM",
+              "icon": "�",
+              "id": "andrew",
+              "name": "Andrew"
+            },
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "tatsuya",
+              "name": "Tatsuya"
+            },
+            {
+              "charType": "NU",
+              "icon": "🎤",
+              "id": "kapella",
+              "name": "Kapella"
+            },
+            {
+              "charType": "NU",
+              "icon": "🏃‍♀️",
+              "id": "kelly",
+              "name": "Kelly"
+            }
+          ]
+        },
+        {
+          "description": "Combo nhiều mod trong 1 pack",
+          "id": "pack_mod",
+          "image": "https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg",
+          "name": "PACK MOD",
+          "subCategories": [
+            {
+              "icon": "📦",
+              "id": "pack_mod",
+              "name": "Pack Combo"
+            }
+          ]
+        },
+        {
+          "charTypeFilters": [
+            {
+              "icon": "👨",
+              "id": "NAM",
+              "image": "https://sf-static.upanhlaylink.com/img/image_2025122782b5d6c8c434a30f698a7802d48ac23e.jpg",
+              "name": "Nhân Vật Nam"
+            },
+            {
+              "icon": "👩",
+              "id": "NU",
+              "image": "https://sf-static.upanhlaylink.com/img/image_20251227480dc95920fcf6af8e641a8bb94b5a96.jpg",
+              "name": "Nhân Vật Nữ"
+            }
+          ],
+          "description": "Bộ sưu tập mod phiên bản 1",
+          "id": "update_1_vesion",
+          "image": "https://sf-static.upanhlaylink.com/img/image_20251228fed01d03f4534fca2e88026547f3b833.jpg",
+          "name": "UPDATE VERSION 1",
+          "subCategories": [
+            {
+              "charType": "NAM",
+              "icon": "👨",
+              "id": "update1_char_nam",
+              "image": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/8af9a328d62a330a76221b79670daf37.png",
+              "name": "Nhân Vật Nam V1"
+            },
+            {
+              "charType": "NU",
+              "icon": "👩",
+              "id": "update1_char_nu",
+              "image": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9c6b10d2984125fbdd96fae9e0a84518.png",
+              "name": "Nhân Vật Nữ V1"
+            }
+          ]
+        },
+        {
+          "description": "Combo pack phiên bản 2",
+          "id": "update_2_vesion",
+          "image": "https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg",
+          "name": "UPDATE VERSION 2",
+          "subCategories": [
+            {
+              "icon": "📦",
+              "id": "update2_pack",
+              "name": "Pack Combo V2"
+            }
+          ]
+        }
+      ],
+      "gameId": "freefiremax",
+      "gameName": "Free Fire Max",
+      "header": {
+        "logoUrl": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/assets/ffmax_logo.png",
+        "subtitle": "Chọn mod bạn muốn cài đặt",
+        "title": "FREE FIRE MAX MODS",
+        "youtubeUrl": "https://www.youtube.com/@HacToolsGame"
+      },
+      "lastUpdated": "2025-12-21",
+      "modItems": {
+        "action": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/emote_loot.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/emote_loot.png",
+            "category": "action",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_emote_loot.zip",
+            "enabled": true,
+            "fileSize": 8388608,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/emote_loot.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_emote_loot",
+            "name": "Loot Dance MAX",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "ak47": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/ak47_dragon.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/ak47_dragon.png",
+            "category": "ak47",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_ak47_dragon.zip",
+            "enabled": true,
+            "fileSize": 18874368,
+            "game": "freefiremax",
+            "image": "https://sf-static.upanhlaylink.com/img/image_202512230f5460f2e166fa1db48901e860d5b31d.jpg",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_ak47_dragon",
+            "name": "AK47 Dragon MAX",
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/ak47_titan.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/ak47_titan.png",
+            "category": "ak47",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_ak47_titan.zip",
+            "enabled": true,
+            "fileSize": 15728640,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/ak47_titan.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_ak47_titan",
+            "name": "AK47 Titan MAX",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "alok": [
+          {
+            "category": "alok",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=15HIpGWvYv2DGRQSFV6MtemQFuX2-C_WH",
+            "enabled": true,
+            "fileSize": 26214400,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/alok_thienha.png",
+            "modCode": "ffmax_alok_thienha",
+            "name": "Alok Thiên Hà MAX",
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "alok",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_alok_valorant.zip",
+            "enabled": true,
+            "fileSize": 23068672,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/alok_valorant.png",
+            "modCode": "ffmax_alok_valorant",
+            "name": "Alok Valorant MAX",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "awm": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/awm_winter.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/awm_winter.png",
+            "category": "awm",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_awm_winter.zip",
+            "enabled": true,
+            "fileSize": 19922944,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/awm_winter.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_awm_winter",
+            "name": "AWM Winter MAX",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "bike": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/bike_neon.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/bike_neon.png",
+            "category": "bike",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_bike_neon.zip",
+            "enabled": true,
+            "fileSize": 7864320,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/bike_neon.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_bike_neon",
+            "name": "Bike Neon MAX",
+            "type": "rare",
+            "version": "1.0"
+          }
+        ],
+        "bundle_nam": [
+          {
+            "category": "bundle_nam",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_bundle_criminal.zip",
+            "enabled": true,
+            "fileSize": 31457280,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/criminal.png",
+            "modCode": "ffmax_bundle_criminal",
+            "name": "Criminal Bundle MAX",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "bundle_nu": [
+          {
+            "category": "bundle_nu",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_bundle_sakura.zip",
+            "enabled": true,
+            "fileSize": 29360128,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/sakura.png",
+            "modCode": "ffmax_bundle_sakura",
+            "name": "Sakura Bundle MAX",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "car": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/car_gold.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/car_gold.png",
+            "category": "car",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_car_gold.zip",
+            "enabled": true,
+            "fileSize": 10485760,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/car_gold.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_car_gold",
+            "name": "Sports Car Gold MAX",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "chrono": [
+          {
+            "category": "chrono",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_chrono_cr7.zip",
+            "enabled": true,
+            "fileSize": 27262976,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/chrono_cr7.png",
+            "modCode": "ffmax_chrono_cr7",
+            "name": "Chrono CR7 MAX",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "dance": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/emote_pirate.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/emote_pirate.png",
+            "category": "dance",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_emote_pirate.zip",
+            "enabled": true,
+            "fileSize": 9437184,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/emote_pirate.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_emote_pirate",
+            "name": "Pirate Dance MAX",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "du_skin": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/para_dragon.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/para_dragon.png",
+            "category": "du_skin",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_du_dragon.zip",
+            "enabled": true,
+            "fileSize": 11534336,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/para_dragon.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_du_dragon",
+            "name": "Dragon Parachute MAX",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "ignis": [
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=18jTNeV_ae8BHZOaAynHsm1cbfrIug-Ww",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefiremax",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227ef58836da002f0692e8f610d917d3b3c.jpg",
+            "modCode": "ffmax_ignis_001",
+            "name": "IGNIS - V001",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1FuBys0REi8-lGw65EvSvDoIH8GwDSW4I",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefiremax",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227dd327f4b1885cf92efb4ebda27f1264c.jpg",
+            "modCode": "ffmax_ignis_002",
+            "name": "IGNIS - V002",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "ignis",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=13hjTDSAZC9G1O4KxAb4Wk6rHJ9-6F46F",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefiremax",
+            "image": "https://sf-static.upanhlaylink.com/img/image_2025122735d73f6ac554c7613294b1abda5686bd.jpg",
+            "modCode": "ffmax_ignis_003",
+            "name": "IGNIS - V003",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "kapella": [
+          {
+            "category": "kapella",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/file/d/1BfgFYxH6ApHp8OdT2i4922psfjMmY1ZI/view?usp=sharing",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefiremax",
+            "image": "https://sf-static.upanhlaylink.com/img/image_2025122769a99fd0ec840ec640ae4493ce506ce8.jpg",
+            "modCode": "ffmax_kapella_001",
+            "name": "KAPELLA - V001",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "m1014": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m1014_phantom.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m1014_phantom.png",
+            "category": "m1014",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_m1014_phantom.zip",
+            "enabled": true,
+            "fileSize": 17825792,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m1014_phantom.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_m1014_phantom",
+            "name": "M1014 Phantom MAX",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "m1887": [
+          {
+            "afterImage": "https://sf-static.upanhlaylink.com/img/image_20251226c1982ecfda5e08769db9f09e7b1fe881.jpg",
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg",
+            "category": "m1887",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1T0_QlKE8JWBQhn_BemaBWWXN8ldjPzN5",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefiremax",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_m1887_001",
+            "name": "M1887 - Thế Giới Ngầm",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "beforeImage": "https://sf-static.upanhlaylink.com/img/image_202512263d3c9b6a75d34747d8511ac82d3bbe7d.jpg",
+            "category": "m1887",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=19EXw5GjTMKO14_jm9mrOAyV9TZ4ZBRfN",
+            "enabled": true,
+            "fileSize": 0,
+            "firebaseIndex": -1,
+            "game": "freefiremax",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_m1887_002",
+            "name": "M1887 - Lữ Khách",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "m4a1": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m4a1_galaxy.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m4a1_galaxy.png",
+            "category": "m4a1",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_m4a1_galaxy.zip",
+            "enabled": true,
+            "fileSize": 18350080,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m4a1_galaxy.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_m4a1_galaxy",
+            "name": "M4A1 Galaxy MAX",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "mp40": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/mp40_bunny.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/mp40_bunny.png",
+            "category": "mp40",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_mp40_bunny.zip",
+            "enabled": true,
+            "fileSize": 16777216,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/mp40_bunny.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_mp40_bunny",
+            "name": "MP40 Crazy Bunny MAX",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "pack_mod": [
+          {
+            "category": "pack_mod",
+            "downloadCount": 0,
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1p3PZMMgoZvM9VYabBQtuwahy0IwktMVR",
+            "enabled": true,
+            "fileSize": 62914560,
+            "firebaseIndex": -1,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/doflamingohonghac-creator/hac/refs/heads/main/Gemini_Generated_Image_x9yke4x9yke4x9yk-small-small-small-small.png",
+            "layoutType": "khung-16-9",
+            "modCode": "ffmax_pack_combo1",
+            "name": "Pack VIP 1 MAX",
+            "new": false,
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "scar": [
+          {
+            "afterImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/scar_titan.png",
+            "beforeImage": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/scar_titan.png",
+            "category": "scar",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_scar_titan.zip",
+            "enabled": true,
+            "fileSize": 17301504,
+            "game": "freefiremax",
+            "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/scar_titan.png",
+            "layoutType": "khung-4-3",
+            "modCode": "ffmax_scar_titan",
+            "name": "SCAR Titan MAX",
+            "type": "legendary",
+            "version": "1.0"
+          }
+        ],
+        "update1_char_nam": [
+          {
+            "category": "update1_char_nam",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_update1_nam_001.zip",
+            "enabled": true,
+            "fileSize": 22000000,
+            "game": "freefiremax",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227f35b37ebadf673d9791bc0890a1346c9.jpg",
+            "modCode": "ffmax_update1_nam_001",
+            "name": "Nhân Vật Nam MAX - V001",
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "update1_char_nam",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_update1_nam_002.zip",
+            "enabled": true,
+            "fileSize": 20000000,
+            "game": "freefiremax",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251227ab0bdc026350160dd134ebf15337d3b1.jpg",
+            "modCode": "ffmax_update1_nam_002",
+            "name": "Nhân Vật Nam MAX - V002",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "update1_char_nu": [
+          {
+            "category": "update1_char_nu",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_update1_nu_001.zip",
+            "enabled": true,
+            "fileSize": 24000000,
+            "game": "freefiremax",
+            "image": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9c6b10d2984125fbdd96fae9e0a84518.png",
+            "modCode": "ffmax_update1_nu_001",
+            "name": "Nhân Vật Nữ MAX - V001",
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "update1_char_nu",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_update1_nu_002.zip",
+            "enabled": true,
+            "fileSize": 21000000,
+            "game": "freefiremax",
+            "image": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9c6b10d2984125fbdd96fae9e0a84518.png",
+            "modCode": "ffmax_update1_nu_002",
+            "name": "Nhân Vật Nữ MAX - V002",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ],
+        "update2_pack": [
+          {
+            "category": "update2_pack",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_update2_pack_001.zip",
+            "enabled": true,
+            "fileSize": 55000000,
+            "game": "freefiremax",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg",
+            "layoutType": "khung-16-9",
+            "modCode": "ffmax_update2_pack_001",
+            "name": "Pack Combo MAX V2 - Set 1",
+            "type": "legendary",
+            "version": "1.0"
+          },
+          {
+            "category": "update2_pack",
+            "downloadCount": 0,
+            "downloadUrl": "https://example.com/downloads/ffmax_update2_pack_002.zip",
+            "enabled": true,
+            "fileSize": 48000000,
+            "game": "freefiremax",
+            "image": "https://sf-static.upanhlaylink.com/img/image_20251228e5da1ccc293ebc9850329a4e827f9541.jpg",
+            "layoutType": "khung-16-9",
+            "modCode": "ffmax_update2_pack_002",
+            "name": "Pack Combo MAX V2 - Set 2",
+            "type": "epic",
+            "version": "1.0"
+          }
+        ]
+      },
+      "packageName": "com.dts.freefiremax",
+      "version": 2
+    }
+  },
+  "mods": {
+    "ff_ak47_dragon": {
+      "category": "ak47",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_ak47_dragon.zip",
+      "enabled": true,
+      "fileSize": 15728640,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/ak47_dragon.png",
+      "modCode": "ff_ak47_dragon",
+      "name": "AK47 Dragon",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ff_ak47_ice": {
+      "category": "ak47",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_ak47_ice.zip",
+      "enabled": true,
+      "fileSize": 10485760,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/ak47_ice.png",
+      "modCode": "ff_ak47_ice",
+      "name": "AK47 Ice Blue",
+      "type": "rare",
+      "version": "1.0"
+    },
+    "ff_ak47_titan": {
+      "category": "ak47",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_ak47_titan.zip",
+      "enabled": true,
+      "fileSize": 12582912,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/ak47_titan.png",
+      "modCode": "ff_ak47_titan",
+      "name": "AK47 Titan",
+      "type": "epic",
+      "version": "1.0"
+    },
+    "ff_alok_thienha": {
+      "category": "alok",
+      "downloadCount": 0,
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1Owo1QK_7eUX7oiB9dxHyM6FzVCdq7Vjt",
+      "enabled": true,
+      "fileSize": 20971520,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/alok_thienha.png",
+      "modCode": "ff_alok_thienha",
+      "name": "Alok Thiên Hà",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ff_alok_valorant": {
+      "category": "alok",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_alok_valorant.zip",
+      "enabled": true,
+      "fileSize": 18874368,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/alok_valorant.png",
+      "modCode": "ff_alok_valorant",
+      "name": "Alok Valorant",
+      "type": "epic",
+      "version": "1.0"
+    },
+    "ff_awm_winter": {
+      "category": "awm",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_awm_winter.zip",
+      "enabled": true,
+      "fileSize": 16777216,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/awm_winter.png",
+      "modCode": "ff_awm_winter",
+      "name": "AWM Winter",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ff_bike_neon": {
+      "category": "bike",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_bike_neon.zip",
+      "enabled": true,
+      "fileSize": 6291456,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/bike_neon.png",
+      "modCode": "ff_bike_neon",
+      "name": "Bike Neon",
+      "type": "rare",
+      "version": "1.0"
+    },
+    "ff_bundle_criminal": {
+      "category": "bundle_nam",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_bundle_criminal.zip",
+      "enabled": true,
+      "fileSize": 25165824,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/criminal.png",
+      "modCode": "ff_bundle_criminal",
+      "name": "Criminal Bundle",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ff_bundle_hiphop": {
+      "category": "bundle_nam",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_bundle_hiphop.zip",
+      "enabled": true,
+      "fileSize": 23068672,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/hiphop.png",
+      "modCode": "ff_bundle_hiphop",
+      "name": "Hip Hop Bundle",
+      "type": "epic",
+      "version": "1.0"
+    },
+    "ff_bundle_sakura": {
+      "category": "bundle_nu",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_bundle_sakura.zip",
+      "enabled": true,
+      "fileSize": 24117248,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/sakura.png",
+      "modCode": "ff_bundle_sakura",
+      "name": "Sakura Bundle",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ff_car_gold": {
+      "category": "car",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_car_gold.zip",
+      "enabled": true,
+      "fileSize": 8388608,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/car_gold.png",
+      "modCode": "ff_car_gold",
+      "name": "Sports Car Gold",
+      "type": "epic",
+      "version": "1.0"
+    },
+    "ff_chrono_cr7": {
+      "category": "chrono",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_chrono_cr7.zip",
+      "enabled": true,
+      "fileSize": 22020096,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/chrono_cr7.png",
+      "modCode": "ff_chrono_cr7",
+      "name": "Chrono CR7",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ff_du_dragon": {
+      "category": "du_skin",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_du_dragon.zip",
+      "enabled": true,
+      "fileSize": 9437184,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/para_dragon.png",
+      "modCode": "ff_du_dragon",
+      "name": "Dragon Parachute",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ff_emote_loot": {
+      "category": "action",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_emote_loot.zip",
+      "enabled": true,
+      "fileSize": 6815744,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/emote_loot.png",
+      "modCode": "ff_emote_loot",
+      "name": "Loot Dance",
+      "type": "epic",
+      "version": "1.0"
+    },
+    "ff_emote_pirate": {
+      "category": "dance",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_emote_pirate.zip",
+      "enabled": true,
+      "fileSize": 7340032,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/emote_pirate.png",
+      "modCode": "ff_emote_pirate",
+      "name": "Pirate Dance",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ff_m1014_gold": {
+      "category": "m1014",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_m1014_gold.zip",
+      "enabled": true,
+      "fileSize": 11534336,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m1014_gold.png",
+      "modCode": "ff_m1014_gold",
+      "name": "M1014 Gold",
+      "type": "epic",
+      "version": "1.0"
+    },
+    "ff_m1014_phantom": {
+      "category": "m1014",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_m1014_phantom.zip",
+      "enabled": true,
+      "fileSize": 14680064,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m1014_phantom.png",
+      "modCode": "ff_m1014_phantom",
+      "name": "M1014 Phantom",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ff_m4a1_galaxy": {
+      "category": "m4a1",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_m4a1_galaxy.zip",
+      "enabled": true,
+      "fileSize": 15204352,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/m4a1_galaxy.png",
+      "modCode": "ff_m4a1_galaxy",
+      "name": "M4A1 Galaxy",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ff_mp40_bunny": {
+      "category": "mp40",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_mp40_bunny.zip",
+      "enabled": true,
+      "fileSize": 13631488,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/mp40_bunny.png",
+      "modCode": "ff_mp40_bunny",
+      "name": "MP40 Crazy Bunny",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ff_scar_titan": {
+      "category": "scar",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ff_scar_titan.zip",
+      "enabled": true,
+      "fileSize": 14155776,
+      "game": "freefireth",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/scar_titan.png",
+      "modCode": "ff_scar_titan",
+      "name": "SCAR Titan",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_ak47_dragon": {
+      "category": "ak47",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_ak47_dragon.zip",
+      "enabled": true,
+      "fileSize": 18874368,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/ak47_dragon.png",
+      "modCode": "ffmax_ak47_dragon",
+      "name": "AK47 Dragon MAX",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_ak47_titan": {
+      "category": "ak47",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_ak47_titan.zip",
+      "enabled": true,
+      "fileSize": 15728640,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/ak47_titan.png",
+      "modCode": "ffmax_ak47_titan",
+      "name": "AK47 Titan MAX",
+      "type": "epic",
+      "version": "1.0"
+    },
+    "ffmax_alok_thienha": {
+      "category": "alok",
+      "downloadCount": 0,
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=15HIpGWvYv2DGRQSFV6MtemQFuX2-C_WH",
+      "enabled": true,
+      "fileSize": 26214400,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/alok_thienha.png",
+      "modCode": "ffmax_alok_thienha",
+      "name": "Alok Thiên Hà MAX",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_alok_valorant": {
+      "category": "alok",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_alok_valorant.zip",
+      "enabled": true,
+      "fileSize": 23068672,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/alok_valorant.png",
+      "modCode": "ffmax_alok_valorant",
+      "name": "Alok Valorant MAX",
+      "type": "epic",
+      "version": "1.0"
+    },
+    "ffmax_awm_winter": {
+      "category": "awm",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_awm_winter.zip",
+      "enabled": true,
+      "fileSize": 19922944,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/awm_winter.png",
+      "modCode": "ffmax_awm_winter",
+      "name": "AWM Winter MAX",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_bike_neon": {
+      "category": "bike",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_bike_neon.zip",
+      "enabled": true,
+      "fileSize": 7864320,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/bike_neon.png",
+      "modCode": "ffmax_bike_neon",
+      "name": "Bike Neon MAX",
+      "type": "rare",
+      "version": "1.0"
+    },
+    "ffmax_bundle_criminal": {
+      "category": "bundle_nam",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_bundle_criminal.zip",
+      "enabled": true,
+      "fileSize": 31457280,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/criminal.png",
+      "modCode": "ffmax_bundle_criminal",
+      "name": "Criminal Bundle MAX",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_bundle_sakura": {
+      "category": "bundle_nu",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_bundle_sakura.zip",
+      "enabled": true,
+      "fileSize": 29360128,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/sakura.png",
+      "modCode": "ffmax_bundle_sakura",
+      "name": "Sakura Bundle MAX",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_car_gold": {
+      "category": "car",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_car_gold.zip",
+      "enabled": true,
+      "fileSize": 10485760,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/car_gold.png",
+      "modCode": "ffmax_car_gold",
+      "name": "Sports Car Gold MAX",
+      "type": "epic",
+      "version": "1.0"
+    },
+    "ffmax_chrono_cr7": {
+      "category": "chrono",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_chrono_cr7.zip",
+      "enabled": true,
+      "fileSize": 27262976,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/chrono_cr7.png",
+      "modCode": "ffmax_chrono_cr7",
+      "name": "Chrono CR7 MAX",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_du_dragon": {
+      "category": "du_skin",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_du_dragon.zip",
+      "enabled": true,
+      "fileSize": 11534336,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/para_dragon.png",
+      "modCode": "ffmax_du_dragon",
+      "name": "Dragon Parachute MAX",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_emote_loot": {
+      "category": "action",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_emote_loot.zip",
+      "enabled": true,
+      "fileSize": 8388608,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/emote_loot.png",
+      "modCode": "ffmax_emote_loot",
+      "name": "Loot Dance MAX",
+      "type": "epic",
+      "version": "1.0"
+    },
+    "ffmax_emote_pirate": {
+      "category": "dance",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_emote_pirate.zip",
+      "enabled": true,
+      "fileSize": 9437184,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/emote_pirate.png",
+      "modCode": "ffmax_emote_pirate",
+      "name": "Pirate Dance MAX",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_m1014_phantom": {
+      "category": "m1014",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_m1014_phantom.zip",
+      "enabled": true,
+      "fileSize": 17825792,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m1014_phantom.png",
+      "modCode": "ffmax_m1014_phantom",
+      "name": "M1014 Phantom MAX",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_m4a1_galaxy": {
+      "category": "m4a1",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_m4a1_galaxy.zip",
+      "enabled": true,
+      "fileSize": 18350080,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/m4a1_galaxy.png",
+      "modCode": "ffmax_m4a1_galaxy",
+      "name": "M4A1 Galaxy MAX",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_mp40_bunny": {
+      "category": "mp40",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_mp40_bunny.zip",
+      "enabled": true,
+      "fileSize": 16777216,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/mp40_bunny.png",
+      "modCode": "ffmax_mp40_bunny",
+      "name": "MP40 Crazy Bunny MAX",
+      "type": "legendary",
+      "version": "1.0"
+    },
+    "ffmax_scar_titan": {
+      "category": "scar",
+      "downloadCount": 0,
+      "downloadUrl": "https://example.com/downloads/ffmax_scar_titan.zip",
+      "enabled": true,
+      "fileSize": 17301504,
+      "game": "freefiremax",
+      "image": "https://raw.githubusercontent.com/ADMINXMINHPHONG/toolsapk/main/mods/max/scar_titan.png",
+      "modCode": "ffmax_scar_titan",
+      "name": "SCAR Titan MAX",
+      "type": "legendary",
+      "version": "1.0"
+    }
+  }
+}
